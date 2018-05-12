@@ -1,0 +1,33 @@
+_repo: Catherine-de-M-dicis--1519-1589-_36315
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mariéjol, Jean-H. (Jean-Hippolyte)
+    aliases:
+    - Mariéjol, Jean-Hippolyte
+    - Mariejol, Jean-H. (Jean-Hippolyte)
+    - Mariéjol, J.-H. (Jean-Hippolyte)
+    birthdate: 1855
+    deathdate: 1934
+    gutenberg_agent_id: '38192'
+    url: http://www.gutenberg.org/2009/agents/38192
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2011-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36315'
+  lccn: '20009378'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Catherine de Médicis, Queen, consort of Henry II, King of France, 1519-1589'
+- !lcsh 'Queens -- France -- Biography'
+title: Catherine de Médicis (1519-1589)
+url: http://www.gutenberg.org/ebooks/36315
