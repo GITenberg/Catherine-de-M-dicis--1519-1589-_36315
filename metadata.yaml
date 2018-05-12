@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '38192'
     url: http://www.gutenberg.org/2009/agents/38192
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36315#Catherine-de-M-dicis--1519-1589-
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2011-06-03'
 gutenberg_type: Text
